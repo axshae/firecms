@@ -4,6 +4,7 @@
     "description": "Awesome Firebase/Firestore-based headless open-source CMS",
     "author": "camberi",
     "homepage": "https://firecms.co",
+    "version":"1.0.0",
     "workspaces": [
         "lib",
         "example",
